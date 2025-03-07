@@ -11,5 +11,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GuiJaeke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
