@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello! I'm Guilherme Jaeke<br>💻 Web Developer | IT Support Analyst | Systems Development Student<br><br>I'm passionate about technology and constantly evolving in the world of web development. Currently, I'm studying Systems Development at ETEC and have hands-on experience with HTML, CSS, JavaScript, Node.js, and Express, along with knowledge of Docker, Handlebars, and Angular.<br><br>In addition, I have over 2 years of experience as an IT Support Analyst, working with hardware maintenance, ERP systems, and desktop and server infrastructure.<br><br>🚀 Technologies & Tools:<br>📌 HTML | CSS | JavaScript | Node.js | Express<br>📌 Docker | Handlebars | Angular<br>📌 Databases | ERP Systems | Hardware Maintenance<br><br>🌱 What am I learning?<br>I'm currently improving my full-stack development skills, exploring modern frameworks, and deepening my knowledge of databases.<br><br>🚀
 
 
